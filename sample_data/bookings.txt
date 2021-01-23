@@ -1,0 +1,63 @@
+{
+	"name":"Aditya",
+	"roomNo":303,
+	"checkin":"2020-05-20",
+	"checkout":"2020-05-25",
+	"amount":5000
+}
+
+{
+	"name":"Diksha",
+	"roomNo":301,
+	"checkin":"2020-05-21",
+	"checkout":"2020-05-25",
+	"amount":4000
+}
+
+{
+	"name":"Gaurav",
+	"roomNo":203,
+	"checkin":"2020-06-10",
+	"checkout":"2020-06-12",
+	"amount":2000
+}
+
+{
+	"name":"Arya",
+	"roomNo":303,
+	"checkin":"2020-05-22",
+	"checkout":"2020-05-27",
+	"amount":5000
+}
+
+{
+	"name":"Rohit",
+	"roomNo":303,
+	"checkin":"2020-05-12",
+	"checkout":"2020-05-15",
+	"amount":3000
+}
+
+{
+	"name":"Aman",
+	"roomNo":303,
+	"checkin":"2020-05-18",
+	"checkout":"2020-05-27",
+	"amount":5000
+}
+
+{
+	"name":"Rishi",
+	"roomNo":102,
+	"checkin":"2020-05-02",
+	"checkout":"2020-05-06",
+	"amount":4000
+}
+
+{
+	"name":"Isha",
+	"roomNo":203,
+	"checkin":"2020-05-21",
+	"checkout":"2020-05-23",
+	"amount":2000
+}
