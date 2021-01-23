@@ -44,7 +44,7 @@ Verify the deployment by navigating to your server address in your preferred bro
 
 <hr>
 <h3>Routes</h3>
-/booking <br>
+/bookings <br>
 /checkAvailability <br>
 
 <h3>Example request</h3>
