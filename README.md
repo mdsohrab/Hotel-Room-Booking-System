@@ -24,7 +24,7 @@ Clone the repository using<br>
 >git clone https://github.com/mdsohrab/Hotel-Room-Booking-System.git <br>
 >cd Hotel-Room-Booking-System <br>
 
-Install the dependencies using<br>
+Install the packages using<br>
 >npm install express<br>
 >npm install nodemon<br>
 >npm install body-parser<br>
