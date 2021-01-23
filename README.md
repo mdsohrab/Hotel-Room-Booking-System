@@ -21,11 +21,15 @@ There is only one type of room and the booking is being made for a single person
 Install node js and Postman <br>
 
 Clone the repository using<br>
->git clone ................................... <br>
->cd ................................ <br>
+>git clone https://github.com/mdsohrab/Hotel-Room-Booking-System.git <br>
+>cd Hotel-Room-Booking-System <br>
 
 Install the dependencies using<br>
->npm install -r requirements.txt <br>
+>npm install express<br>
+>npm install nodemon<br>
+>npm install body-parser<br>
+>npm install dotenv <br>
+>npm install mongoose <br>
 
 Connect to the database <br>
 >Connect to your own MongoDB by changing the url in .env file accordingly <br>
