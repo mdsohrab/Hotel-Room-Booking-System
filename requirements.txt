@@ -1,5 +1,0 @@
-express
-nodemon
-body-parser
-dotenv
-mongoose
