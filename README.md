@@ -2,13 +2,13 @@
 <h1> Hotel Rooms Booking System for hotel "YOUR HOME" </h1>
 
 <h3>Introduction</h3>
-<p> APIs simple hotel booking system which equips the manager with the following functionalities</p>
+<p> APIs for hotel booking system which equips the manager with the following functionalities</p>
 <ul>
   <li>Check for availability of rooms between certain dates</li>
   <li>Book a room for a certain customer for a certain time period if it is available</li>
 </ul>
 <p>Constraints</p>
-There is only one type of room and the booking is being made for a single person only.
+There is only one type of room (i.e. every room is identical) and the capacity of the room is one person only.
 
 <h3>Tech Stack</h3>
 <ul>
@@ -18,13 +18,13 @@ There is only one type of room and the booking is being made for a single person
 <hr>
 <h3>Installations</h3>
 
-Install node js and Postman <br>
+Install Node js and Postman <br>
 
 Clone the repository using<br>
 >git clone https://github.com/mdsohrab/Hotel-Room-Booking-System.git <br>
 >cd Hotel-Room-Booking-System <br>
 
-Install the packages using<br>
+Install the following packages using<br>
 >npm install express<br>
 >npm install nodemon<br>
 >npm install body-parser<br>
